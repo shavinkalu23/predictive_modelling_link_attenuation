@@ -64,7 +64,7 @@ Special thanks to the project supervisor, Siu Wai Ho, for guidance and support t
 ## Contact Information
 
 - **Author:** Shavin Tharinda Kaluthantri
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [your.email@example.com](mailto:a1904121@adelaide.edu.au)
 - **Affiliation:** School of Mathematical Sciences, University of Adelaide
 
 ---
