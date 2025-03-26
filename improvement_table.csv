@@ -1,0 +1,8 @@
+SYNOPCode,RFL_RMSE_Improvement,FSO_RMSE_Improvement,RFL_R2_Improvement,FSO_R2_Improvement
+clear,9.30%,-11.56%,0.51%,-1.59%
+dust storm,-39.36%,-109.30%,-0.73%,-11.29%
+fog,-73.10%,-8.44%,-6.45%,-1.20%
+drizzle,-22.43%,-17.03%,-1.47%,-1.93%
+rain,10.72%,-6.26%,0.81%,-0.65%
+snow,-42.67%,-2.21%,-4.56%,-0.31%
+shower,-11.06%,0.13%,-2.61%,0.03%
